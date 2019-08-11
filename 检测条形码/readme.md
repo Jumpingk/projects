@@ -4,12 +4,12 @@
 
 ### run
 
-'''
-python -i ./image/img1.jpg
+'''python
+demo.py -i ./image/img1.jpg
 '''
 
-'''
-python -i ./image/img2.jpg
+'''python
+demo.py -i ./image/img2.jpg
 '''
 
 - 实现效果:
