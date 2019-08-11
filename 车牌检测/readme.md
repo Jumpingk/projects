@@ -6,6 +6,11 @@
 
 ## run
 - 运行license_plate_detection.py文件，传入image文件夹下的测试图像，便可对test图像进行车牌检测
-- 测试效果如下：
 
-![image](./image/)
+### 测试效果如下：
+
+![image](./image/img1.png)
+
+![image](./image/img2.png)
+
+![image](./image/img3.png)
