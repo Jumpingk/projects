@@ -4,13 +4,13 @@
 
 ### run
 
-'''python
+```python
 demo.py -i ./image/img1.jpg
-'''
+```
 
-'''python
+```python
 demo.py -i ./image/img2.jpg
-'''
+```
 
 - 实现效果:
 
