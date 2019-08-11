@@ -3,6 +3,6 @@
 - https://blog.csdn.net/qq_40962368/article/details/97498110
 - 实现效果:
 
-![image](https://github.com/Jumpingk//projects//检测条形码//image//image1.png)
+![image](./image/image1.png)
 
-![image](https://github.com/Jumpingk//projects//检测条形码//image//image2.png)
+![image](./image/image2.png)
